@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "role": "admin"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "password": "securepass",
+    "role": "user"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.j@example.com",
+    "password": "strongpassword",
+    "role": "user"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "password": "pass123",
+    "role": "user"
+  },
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "adminpass",
+    "role": "admin"
+  }
+]
